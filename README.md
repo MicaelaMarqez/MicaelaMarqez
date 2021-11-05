@@ -1,6 +1,6 @@
 <h1 align="center">Hola
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif">
-    <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="2em" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="32px" style="max-width: 100%;">
   </a>! Soy Mica
 </h1>
 <h3 align="center">desarrolladora full stack de Córdoba Argentina</h3>
